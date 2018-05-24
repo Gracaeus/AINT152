@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Base
+  - Particles
+  - Zombie
+  - Door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Base
+  - Particles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Base
+    uniqueID: 3479679621
+    locked: 0
+  - name: Particles
+    uniqueID: 1296403575
+    locked: 0
+  - name: Ground
+    uniqueID: 705968951
+    locked: 0
+  - name: Player
+    uniqueID: 2846373229
+    locked: 0
+  - name: Zombie
+    uniqueID: 3871210975
+    locked: 0
+  - name: Bullet
+    uniqueID: 1560928125
+    locked: 0
+  - name: ForeGround
+    uniqueID: 26806759
+    locked: 0
